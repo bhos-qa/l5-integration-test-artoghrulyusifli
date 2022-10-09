@@ -6,7 +6,7 @@ Integration testing is done to test the modules/components when integrated to ve
 # Why Integration testing is important ?
 As the name implies, integration testing is the process of testing individual components to see how well they perform conjoined. These components are combined to better understand multiple modules operating as a single unit.
 
-In my Project I used Springboot framework in order to make the Integration testing.After I created the project I added the Springboot framework to this project.Consequently, i started to write sprinboot apllication and  integration testings for endpoints using the mockapi.io:
+In my Project I used Springboot framework in order to make the Integration testing.After I created the project I added the Springboot framework to this project.Consequently, i started to write sprinboot apllication and  integration testings for endpoints using the mockapi.io. A mock API server or mock server API imitates a real API server by providing realistic mock API responses to requests:
 ![image](https://user-images.githubusercontent.com/71690701/194750402-8f59148f-5d0a-469b-a56b-377094d532aa.png)
 
 
