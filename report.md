@@ -12,6 +12,8 @@ In my Project I used Springboot framework in order to make the Integration testi
 
 ![image](https://user-images.githubusercontent.com/71690701/194750354-338b4736-1390-43ee-8274-ca21f5ec1023.png)
 
-After writing integration testing I used Springboot framework to see if our test is seccesful for endpoints:
+After writing integration testing I used Springboot framework to see if our integration tests are seccesful.For it I run the Springproj1Applicationtests :
+![image](https://user-images.githubusercontent.com/71690701/194751414-53de24fb-3558-451b-95d0-1dbe531a57dd.png)
+
 ![image](https://user-images.githubusercontent.com/71690701/194750454-0c0fe321-1018-40a4-bf97-b0c4a8e434a1.png)
 As we can see from picture all our integration testings passed test succesfully.
